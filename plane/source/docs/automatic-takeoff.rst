@@ -42,8 +42,6 @@ You should try to launch into the wind whenever possible.
 
 By default, the throttle will be set at :ref:`TKOFF_THR_MAX<TKOFF_THR_MAX>`
 during all of the climb. For more fine-grained control, please read :ref:`takeoff-throttle`.
-Note that the setting of :ref:`TKOFF_LVL_ALT<TKOFF_LVL_ALT>` doesn't affect
-the throttle in AUTO flight mode.
 
 Hand Launching
 ==============
